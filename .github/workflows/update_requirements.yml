@@ -1,0 +1,16 @@
+name: Update requirements.txt
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Self test
+        id: selftest
+
+        uses: timmypidashev/auto-pipreqs@v3.1.0
+
+        with:
+          IGNORE_PATH: ./External/
+          PROJECT_PATH: .
+          REQUIREMENT_PATH: requirements.txt  
