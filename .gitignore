@@ -1,0 +1,14 @@
+# environment variables
+*.env
+
+# pycache directories
+__pycache__
+
+# log files
+*.log
+
+# database
+# Temporary database files and database
+*.db-shm
+*.db-wal
+*.db

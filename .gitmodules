@@ -1,0 +1,6 @@
+[submodule "External/pycord"]
+	path = External/pycord
+	url = https://github.com/Pycord-Development/pycord
+[submodule "External/asqlite"]
+	path = External/asqlite
+	url = https://github.com/Rapptz/asqlite
