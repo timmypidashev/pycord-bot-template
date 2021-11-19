@@ -17,7 +17,7 @@
 ### And to top it all off, it also doubles as a great slash command bot template!
 
 ## Installation
-* Clone the repository recursively:
+* Clone the repository recursively or click the [Use this template](https://github.com/timmypidashev/pycord-bot-template/generate) button!
 ```bash
 git clone --recursive https://github.com/timmypidashev/pycord-bot-template
 ```
