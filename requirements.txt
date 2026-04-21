@@ -4,5 +4,5 @@ discord.py==1.7.3
 neotermcolor==2.0.10
 psutil==5.8.0
 pyfiglet==0.8.post1
-python-dotenv==0.19.2
+python-dotenv==1.2.2
 PyYAML==6.0
